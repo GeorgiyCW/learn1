@@ -1,0 +1,8 @@
+a=float('1')
+print(a)
+b=bool(1)
+print(b)
+c=bool('')
+print(c)
+d=bool(0)
+print(d)
