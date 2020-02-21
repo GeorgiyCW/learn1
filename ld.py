@@ -1,7 +1,11 @@
-phones = ["Iphone xs", "Samsung 10s", "Xiaomi Mi8"]
+Spisok = ["3", "5", "7","9","10.5"]
 
-print(phones)
+print(Spisok)
 
-phones.remove('iphone X')
+Spisok.append("Python")
 
-print(phones)
+Spisok_count = len
+
+Spisok.remove('3')
+
+print(Spisok)
